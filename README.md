@@ -1,3 +1,7 @@
+This is a fork of an important project we use following fair use.
+
+we have forked it to prevent further free speech infringement.
+
 [![Build Status](https://travis-ci.org/ytdl-org/youtube-dl.svg?branch=master)](https://travis-ci.org/ytdl-org/youtube-dl)
 
 youtube-dl - download videos from youtube.com or other video platforms
